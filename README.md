@@ -1,10 +1,13 @@
-## bilibili汇编语言速成指南资料【收藏不迷路】
+## bilibili汇编语言速成指南资料
 
-主要资料：**pdf**,环境压缩包，代码
+主要资料：**pdf**, 代码（未来一段时间我将学习这些代码）
 
 ## 如何下载
-**点击页面中绿色按钮`code`->选择`Download ZIP`即可**
-![image](./实战篇代码/GitHub下载.png)
+原资源地址：
+https://github.com/HaiPenglai/bilibili_assembly
+
+UP主在哔站上的课程链接：
+https://www.bilibili.com/video/BV1eG4y1S7R5
 
 ## 实战篇-代码
 
